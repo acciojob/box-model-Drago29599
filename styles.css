@@ -1,1 +1,46 @@
 /*  your css code here. If applicable */
+.container {
+	padding:10px;
+	border: 2px solid;
+	height: 150px;
+	width: 400px;
+	border-radius: 15px;
+	background-color: lightgray
+}
+
+.inline-div {
+	display: inline-block;
+}
+
+#box2 {
+	
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+	margin-left: 25px;
+	margin-top:25px;
+	background-color:yellow;
+	
+}
+
+#box3 {
+	
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+	margin-left: 25px;
+	margin-top:25px;
+	background-color:red;
+	
+}
+
+#box1 {
+	
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+	margin-left: 25px;
+	margin-top:25px;
+	background-color:green;
+	
+}
