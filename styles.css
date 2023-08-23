@@ -12,6 +12,16 @@
 	display: inline-block;
 }
 
+#box1 {
+	
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+	margin-left: 25px;
+	margin-top:25px;
+	background-color:green;
+	
+}
 #box2 {
 	
 	height: 100px;
@@ -34,13 +44,3 @@
 	
 }
 
-#box1 {
-	
-	height: 100px;
-	width: 100px;
-	border-radius: 50%;
-	margin-left: 25px;
-	margin-top:25px;
-	background-color:green;
-	
-}
